@@ -1,3 +1,3 @@
-from __future__ import braces
+import this
 
 print("Hello World!")
